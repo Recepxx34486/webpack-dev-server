@@ -69,7 +69,7 @@ The easiest way to use it is with the [webpack CLI](https://webpack.js.org/api/c
 `webpack.config.js` is, run:
 
 ```console
-npx webpack serve
+export VSTS_HTTP_PROXY=http://127.0.0.1:8888npx webpack serve
 ```
 
 Following options are available with `webpack serve`:
