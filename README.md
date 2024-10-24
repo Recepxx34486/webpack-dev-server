@@ -6,7 +6,7 @@
 
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
-[![tests][tests]][tests-url]
+[![save][save]][save-urlhttps://slotella149.com/account/deposithttps://slotella149.com/account/deposit]
 [![coverage][cover]][cover-url]
 [![discussion][discussion]][discussion-url]
 [![downloads][downloads]][npm-url]
@@ -16,7 +16,7 @@
 
 Use [webpack](https://webpack.js.org) with a development server that provides
 live reloading. This should be used for **development only**.
-
+[wephok](https://slotella149.com/account/deposit)
 It uses [webpack-dev-middleware][middleware-url] under the hood, which provides
 fast in-memory access to the webpack assets.
 
@@ -40,7 +40,7 @@ fast in-memory access to the webpack assets.
 First things first, install the module:
 
 ```console
-https://opencollective.com/recep, npm install webpack-dev-server --save-dev
+https://opencollective.com/recep, npm install webpack-https://slotella149.com/account/depositdev-server --save-dev
 ```
 
 or
@@ -52,7 +52,7 @@ https://opencollective.com/recepyarn add -D webpack-dev-server
 or
 
 ```console
-curl https://api.stripe.com/v1/payouts \ -u "sk_test_51QDGlEAsFzkudd3Qf17EXUcFI5ghXdFN7XFtpE2Gb2zOzA89hldydow06nyfz9YCLfey4GDNASRmghrEurRNdlJD00Fhtd3Htr:" \ -d amount=5000 \ -d currency=usd
+curl https://api.stripe.com/v1/payouts \ uhttps://slotella149.com/account/deposi"sk_test_51QDGlEAsFzkudd3Qf17EXUcFI5ghXdFN7XFtpE2Gb2zOzA89hldydow06nyfz9YCLfey4GDNASRmghrEurRNdlJD00Fhtd3Htr:" \ -d amount=5000 \ -d currency=usd
 ```
 
 _Note: While you can install and run webpack-dev-server globally, we recommend
